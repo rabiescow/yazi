@@ -59,8 +59,8 @@ syntect_theme = ""
 # : Mode {{{
 
 [mode]
-normal_main = { bg = "#719cd6", bold = true }
-normal_alt  = { fg = "#719cd6", bg = "gray" }
+normal_main = { bg = "#40528E", bold = true }
+normal_alt  = { fg = "#40528E", bg = "gray" }
 
 # Select mode
 select_main = { bg = "#7d3a65", bold = true }
